@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masteruul
 - 👀 I’m interested in software engineering and cloud computing
-- 🌱 I’m currently learning vue.js to build frotend microservice
+- 🌱 I’m currently learning vue.js to build frontend microservice
 - 💞️ I’m looking to collaborate on golang open source project
 - 📫 How to reach me? twitter: @syamsulhudauul
 
