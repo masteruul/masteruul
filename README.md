@@ -5,9 +5,9 @@
 - 📫 How to reach me? twitter: @syamsulhudauul
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=masteruul&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=syamsulhudauul&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/masteruul/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=masteruul" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=syamsulhudauul" />
   </a>
   <p>
 
