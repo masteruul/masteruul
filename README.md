@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masteruul
+- 👋 Hi, I’m @syamsulhudauul, you can call me Huda
 - 👀 I’m interested in software engineering and cloud computing
 - 🌱 I’m currently learning vue.js to build frontend microservice
 - 💞️ I’m looking to collaborate on golang open source project
