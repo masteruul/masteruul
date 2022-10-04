@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @syamsulhudauul, you can call me Huda
 - 👀 I’m interested in software engineering and cloud computing
-- 🌱 I’m currently learning vue.js to build frontend microservice
+- 🌱 I’m currently learning redis and involve in private redis-cluster library development in golang
 - 💞️ I’m looking to collaborate on golang open source project
 - 📫 How to reach me? twitter: @syamsulhudauul
 
